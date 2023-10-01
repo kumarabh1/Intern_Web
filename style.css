@@ -57,7 +57,7 @@ nav a::after {
 .section1{
     width: 100vw;
     height: 70vh;
-    /* background: palevioletred; */
+    
     display: flex;
 }
 
